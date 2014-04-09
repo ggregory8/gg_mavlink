@@ -1,0 +1,89 @@
+guvcview 1.7.1
+file guvcview_video.mkv has extension type 1
+file guvcview_image.jpg has extension type 0
+no codec detected for H264
+no codec detected for MP3 - (lavc)
+file guvcview_image.jpg has extension type 0
+Video file suffix detected: 0
+Image file suffix detected: 0
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib setup.c:548:(add_elem) Cannot obtain info for CTL elem (MIXER,'IEC958 Playback Default',0,0,0): No such file or directory
+ALSA lib setup.c:548:(add_elem) Cannot obtain info for CTL elem (MIXER,'IEC958 Playback Default',0,0,0): No such file or directory
+ALSA lib setup.c:548:(add_elem) Cannot obtain info for CTL elem (MIXER,'IEC958 Playback Default',0,0,0): No such file or directory
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+bt_audio_service_open: connect() failed: Connection refused (111)
+bt_audio_service_open: connect() failed: Connection refused (111)
+bt_audio_service_open: connect() failed: Connection refused (111)
+bt_audio_service_open: connect() failed: Connection refused (111)
+ALSA lib pcm_dmix.c:961:(snd_pcm_dmix_open) The dmix plugin supports only playback stream
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+video device: /dev/video0 
+Init. Mobius (location: usb-0000:00:06.0-2)
+{ pixelformat = 'MJPG', description = 'MJPEG' }
+{ discrete: width = 1280, height = 720 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ discrete: width = 640, height = 480 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ discrete: width = 320, height = 240 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ pixelformat = 'RGB3', description = 'RGB3' }
+{ discrete: width = 1280, height = 720 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ discrete: width = 640, height = 480 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ discrete: width = 320, height = 240 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ pixelformat = 'BGR3', description = 'BGR3' }
+{ discrete: width = 1280, height = 720 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ discrete: width = 640, height = 480 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ discrete: width = 320, height = 240 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ pixelformat = 'YU12', description = 'YU12' }
+{ discrete: width = 1280, height = 720 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ discrete: width = 640, height = 480 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ discrete: width = 320, height = 240 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ pixelformat = 'YV12', description = 'YV12' }
+{ discrete: width = 1280, height = 720 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ discrete: width = 640, height = 480 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+{ discrete: width = 320, height = 240 }
+	Time interval between frame: {min { 1/30 } .. max { 1/30 } / stepsize { 1/10000000 } }, 
+vid:0603 
+pid:1002 
+driver:uvcvideo
+checking format: 1196444237
+VIDIOC_G_COMP:: Inappropriate ioctl for device
+fps is set to 1/30
+no codec detected for H264
+no codec detected for MP3 - (lavc)
+drawing controls
+
+NEXT_CTRL flag not supported
+Error: empty control list
+
+(guvcview:2794): Gtk-CRITICAL **: gtk_widget_show: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(guvcview:2794): Gtk-CRITICAL **: gtk_scrolled_window_add_with_viewport: assertion 'GTK_IS_WIDGET (child)' failed
+fps is set to 1/1
+Checking video mode 640x480@32bpp : OK 
+write /home/ros/.config/guvcview/video0 OK
+cleaned allocations - 100%
+Closing portaudio ...OK
+Closing GTK... OK
+ros@ros-Ubuntu13-10:~$ 
